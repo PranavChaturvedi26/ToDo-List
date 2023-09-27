@@ -67,6 +67,7 @@ Create a new Todo
 
 Edit an existing Todo
 <img src="screenshots/v1.3.0/UpdateTodo.png">
+<img src="screenshots/v1.3.0/UpdateTodo.png">
 
 Login Page
 
